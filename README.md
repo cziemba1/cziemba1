@@ -4,6 +4,8 @@
  I enjoy creating and developing exciting projects. 
 
  I love learning new technologies to experiment with and become more flexible. 
+ 
+ Stack: C# .Net / Python / JavaScript
 <!--
 **cziemba1/cziemba1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
