@@ -1,5 +1,5 @@
 ### Hi there 👋
- I'm Claudia, a software developer based in Buenos Aires. 
+ I'm Claudia, a software developer based in Buenos Aires, Argentina.
  
  I enjoy creating and developing exciting projects. 
 
