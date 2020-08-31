@@ -5,7 +5,7 @@
 
  I love learning new technologies to experiment with and become more flexible. 
  
- Stack: C# .Net MVC, .NET Core, Entity Framework / Python / JavaScript / NodeJs / SQL / Angular
+ Stack: C# .Net / Python / JavaScript / NodeJs / SQL / 
 <!--
 **cziemba1/cziemba1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
