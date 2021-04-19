@@ -5,7 +5,7 @@
 
  I love learning new technologies to experiment with and become more flexible. 
  
- Stack: HTML-CSS / JavaScript / NodeJs / AngularJs / C# .Net MVC / SQL / MongoDB
+ Stack: HTML-CSS / JavaScript / NodeJs / C# .Net Core, Web Api, MVC / Angular / SQL / MongoDB
 <!--
 **cziemba1/cziemba1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
